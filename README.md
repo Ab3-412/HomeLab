@@ -87,7 +87,7 @@
 
 ![Fast Start](img/fastStart.jpeg)
 <br>
-<h1>Device Manager Settings/h1>
+<h1>Device Manager Settings</h1>
 
 ![Device Manager Settings](img/DeviceManager.jpeg)
 <br>
