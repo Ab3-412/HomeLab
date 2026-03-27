@@ -103,4 +103,4 @@
 <h3>Connecting to Windows</h3>
 
 ![Windows SSH](img/sshWindows.jpeg)
-<p>My homelab allows me to use my iPhone to turn on my Windows PC remotely, then ssh into that PC. This Raspberry Pi 5 setup is extremely versatile and fun to work wit. I appreciate anyone who read this far</p>
+<p>My homelab allows me to use my iPhone to turn on my Windows PC remotely (Even left in the iconic iPhone volume button), then ssh into that PC. This Raspberry Pi 5 setup is extremely versatile and fun to work with. I appreciate anyone who read this far</p>
